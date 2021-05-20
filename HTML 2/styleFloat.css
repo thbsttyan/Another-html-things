@@ -1,0 +1,19 @@
+#d1
+{
+    background-color: red;
+    float:left;
+}
+#d2
+{
+    background-color: yellow;
+    float:right;
+}
+#d3
+{
+    background-color: green;
+    
+}
+.stopFloat
+{
+    clear: both;
+}
